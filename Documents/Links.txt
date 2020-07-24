@@ -1,0 +1,43 @@
+============= Lora Intro ===================
+https://www.youtube.com/watch?v=MBcKblLODJQ&t=78s
+https://www.youtube.com/watch?v=UttVPBAwPOE
+
+============= conduit to TTN =================
+https://www.thethingsnetwork.org/docs/gateways/multitech/aep.html
+https://www.thethingsnetwork.org/docs/gateways/registration.html
+https://github.com/TheThingsNetwork/packet_forwarder/blob/master/docs/INSTALL_INSTRUCTIONS/MULTITECH.md
+
+============= JOIN =================
+https://forum.pycom.io/topic/517/downgrading-firmware-advanced-users
+
+============= Lopy to Conduit =========
+http://support.nke-watteco.com/multitech-tutorial/
+https://console.thethingsnetwork.org/applications/ttuloraapp1/devices/device1
+https://forum.pycom.io/topic/476/lopy-to-multitech-conduit
+
+============= Conduit ==================
+http://www.multitech.net/developer/software/lora/getting-started-with-lora-conduit-aep/
+https://www.leverege.com/blogpost/lorawan-node-red-deployment-tips-part-ii
+
+============== Ubidots Conduit TTN ======
+http://help.ubidots.com/connect-your-devices/connect-your-pycom-lopy-to-ubidots-over-lorawan
+http://help.ubidots.com/connect-your-devices/multiconnect-conduit-aep-lorawan-packet-forwarder
+
+
+https://www.thethingsnetwork.org/forum/t/setting-up-multitech-conduit-gateway-for-ttn/216/64
+
+============= TTN =======================
+https://www.thethingsnetwork.org/docs/devices/registration.html
+
+============ TTN packet formates ========
+https://www.thethingsnetwork.org/docs/devices/bytes.html
+
+
+============ TTN data visiulation ======
+https://www.thethingsnetwork.org/forum/t/visualize-and-push-your-iot-data/1788/38
+
+https://developers.evrythng.com/docs/the-things-network
+https://www.thethingsnetwork.org/docs/applications/evrythng/
+
+https://www.thethingsnetwork.org/labs/story/store-and-visualize-data-using-influxdb-and-grafana
+https://www.zerynth.com/blog/lora-nodes-real-time-data-plotting-using-python-for-microcontrollers/
